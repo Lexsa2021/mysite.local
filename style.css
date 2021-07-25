@@ -1,0 +1,40 @@
+body {
+   background-color: #000000;
+   font-family:      Georgia, "Times New Roman", Times, serif; 
+   font-size:        medium;
+   margin:           0px;
+}
+header.top {
+  background-color: #0099cc;
+  margin: 10px 10px 0px 10px;
+  height:           230px;
+}
+h1.logo {
+  text-align: center;
+  padding: 90px;
+  color: #ffffff;
+}
+h1{
+  text-align: center;
+}
+nav {
+  background-color: #3399CC;
+  margin: 10px 10px 10px 10px;
+  font-size: 20px;
+  padding: 10px 0px 10px 10px;
+  font-style: italic; 
+}
+nav a {
+  color: #ffffff;
+}
+section.main {
+  background-color: white;
+  margin: 10px 10px 10px 10px;
+}
+footer{
+  background-color: #3399CC;
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+  font-size: 25px;
+  padding: 5px 0px 5px 0px;
+}
