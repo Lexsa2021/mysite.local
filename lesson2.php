@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset='utf-8'>
-		<title>Урок 2. Таблица умножение в цвете</title>
+		<title>Урок 2. Таблица умножения в цвете</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 <body>

@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset='utf-8'>
-		<title>Урок 1. Таблица множений</title>
+		<title>Урок 1. Таблица умножений</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 <body>
