@@ -31,6 +31,41 @@ section.main {
   background-color: white;
   margin: 10px 10px 10px 10px;
 }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: auto;
+}
+.one{
+  color: #ff0000;
+}
+.two{
+  color: #008000;
+}
+.three{
+  color: #FFFF00;
+}
+.four{
+  color: #0000FF;
+}
+.five{
+  color: #FFC0CB;
+}
+.six{
+  color: #FF7F50;
+}
+.seven{
+  color: #FF00FF;
+}
+.eight{
+  color: #CD853F;
+}
+.nine{
+  color: #800080;
+}
+.zero{
+  color: #00FFFF;
+}
 footer{
   background-color: #3399CC;
   margin: 10px 10px 10px 10px;
