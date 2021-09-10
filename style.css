@@ -1,5 +1,5 @@
-body {
-   background-color: #000000;
+body { 
+   background-color: #FFFFFF;
    font-family:      Georgia, "Times New Roman", Times, serif; 
    font-size:        medium;
    margin:           0px;
@@ -28,7 +28,7 @@ nav a {
   color: #ffffff;
 }
 section.main {
-  background-color: white;
+  background-color: #ffffff;
   margin: 10px 10px 10px 10px;
 }
 table, th, td {
