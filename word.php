@@ -18,6 +18,9 @@
 	$word = $_POST['word'];
 	echo strrev($word);
 ?>
+<form method="post" action="lesson3.php" id="wordform">
+	  <button type="submit">Назад</button></br>
+</form>
 	</section>
 <footer>
 &copy2021
